@@ -1,2 +1,2 @@
-# BlackHole
-java trainig
+# My First Git-Project
+java_Project
