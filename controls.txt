@@ -1,0 +1,9 @@
+Controls:
+
+Player one: 
+up : w;
+down: s;
+
+Player two:
+up: up
+down: down
