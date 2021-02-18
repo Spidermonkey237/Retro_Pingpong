@@ -1,2 +1,4 @@
-# My First Git-Project
-java_Project
+# Pingpong
+this is 2 player 2D retro pingpong game...
+This is made with java and java-Processing...
+++++++++++++               +++++++++++++++++
